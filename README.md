@@ -1,2 +1,0 @@
-# StrategicModel
-Created with CodeSandbox
